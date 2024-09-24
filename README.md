@@ -98,9 +98,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/3lC4pitan/3lC4pitan/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="center">
