@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, `> hello_world.exe`</h1>
+<h1 align="center">Hi 👋, `> hello_world`</h1>
 <h3 align="center">I debug with coffee ☕ and curiosity 🔍</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3lc4pitan" alt="3lc4pitan" /></a> </p>
